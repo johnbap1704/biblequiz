@@ -16,4 +16,7 @@
 ["Cain and Abel were the only children of Adam and Eve", false], ["Joseph was given a red coat by his father Jacob", false],
 ["Aaron received the 10 commandments from God on Mt. Sinai", false], ["Saul was the first king of Israel", true], ["Jesus was born in a town called Nazareth", false],
 ["Before Jesus began his three years of ministry he worked as a carpenter", true], ["Jesus avoided people who had bad reputations", false],
-["The Pharisees accepted the message given by Jesus", false], ["At the last supper with his disciples, Jesus washed their feet", true]]
+["The Pharisees accepted the message given by Jesus", false], ["At the last supper with his disciples, Jesus washed their feet", true],
+["The first of the 10 Commandments is:  You shall have no other Gods before me", true], ["The last of the 10 Commandments is: You shall not steal", false],
+["Potiphar, captian of Pharoah's guard, bought Joseph when he arrived in Egypt", true], ["The name of the giant who David killed was Golgotha", false],
+["Jesus was a cousin of John the Baptist", true], ["There are 66 books in the Bible", true], ["David's son Abiathar succeeded him as king", false]]
