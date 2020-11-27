@@ -9,4 +9,6 @@
 ["Abraham was the uncle of Lot", true], ["The City of David in the Bible is also known as Jerusalem", false], ["Zechariah was the father of John the Baptist", true],
 ["Abraham was aprroximately 100 years old when his son Isaac was born", true], ["Joshua was the father in law of Moses", false],
 ["After Jesus was baptised in the river Jordan he went straight to Jerusalem", false], ["Stephen was the first Christian martyr recorded in the New Testament", true],
-["Moses was over 140 years old when he died", false], ["Jesus performed the miracle of turning water into wine in the village of Bethany", false]]
+["Moses was over 140 years old when he died", false], ["Jesus performed the miracle of turning water into wine in the village of Bethany", false]
+["Jonah was sent to Nineveh by God", true], ["Lazarus was healed of his blindness by Jesus", false], ["Mary, the mother of Jesus, was at the wedding in Cana", true],
+"The Prodigal Son was hired to work as a shepherd", false], ["Joseph was sold into slavery by his brothers", false]]
