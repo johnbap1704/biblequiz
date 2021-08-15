@@ -20,6 +20,6 @@
 ["The first of the 10 Commandments is:  You shall have no other Gods before me", true], ["The last of the 10 Commandments is: You shall not steal", false],
 ["Potiphar, captian of Pharoah's guard, bought Joseph when he arrived in Egypt", true], ["The name of the giant who David killed was Golgotha", false],
 ["Jesus was a cousin of John the Baptist", true], ["There are 66 books in the Bible", true], ["David's son Abiathar succeeded him as king", false],
-["Jesus was crucified between two thieves", true], ["David and Jonathon were bitter adversaries", false],
+["Jesus was crucified between two thieves", true], ["David and Jonathon were bitter adversaries", false], ["Abel killed his brother Cain", false],
 ["No name is given in Scripture for Lot's wife who was turned into a pillar of salt", true], ["Rachel was the mother of Joseph and Benjamin", true], 
 ["During his voyage to Rome the apostle Paul spent time on the island of Malta", true], ["When Nehemiah and his helpers were repairing the walls of Jerusalem, one of the gates was called the Wine Gate", false]]
